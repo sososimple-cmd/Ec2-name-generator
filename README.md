@@ -1,5 +1,4 @@
 # Ec2-name-generator
-# Ec2-name-generator
 EC2 Random Name Generator
 Hey there! 👋
 
